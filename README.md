@@ -134,7 +134,7 @@ Frontend runs at: `http://localhost:3000`
 | Frontend | React 18, React Router v6, Axios |
 | Styling | Pure CSS (custom design system) |
 | Backend | Node.js, Express.js |
-| Database | MongoDB, Mongoose |
+| Database | MongoDB |
 | Auth | JWT (jsonwebtoken), bcryptjs |
 | Blockchain | SHA-256 hashing (Node.js crypto module) |
 | Build Tool | Vite |
